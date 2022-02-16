@@ -3,6 +3,7 @@
 
 
   - 😊 Pronouns: ela/dela - she/her
+  - 🌱 Formada em Análise e Desenvilvimento de Sistemas
   - 🌱 Formada em Desenvolvedora Java Junior pela Generation Brasil <3
   - 🔸 Contato: samila.thalytaa@gmail.com
 
